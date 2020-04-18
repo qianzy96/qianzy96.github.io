@@ -3,7 +3,7 @@ layout:     post
 title:      git cheatsheet
 subtitle:   git命令行使用
 date:       2020-4-18
-author:     BY
+author:     油腻斜杠
 header-img: img/post-bg-ios9-web.jpg
 catalog: 	 true
 tags:
