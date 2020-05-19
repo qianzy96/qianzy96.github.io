@@ -57,13 +57,15 @@ tags:
    63  source /etc/profile
    64  vi /etc/profile
    65  source /etc/profile
-       export NODE_HOME=/usr/nodejs
-       export PATH=$NODE_HOME/bin:$PATH
-
-       export GOROOT=/usr/go
-       export GOPATH=/home/go
-       export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
-       export GOPROXY=https://goproxy.io,direct
+   ```
+    export NODE_HOME=/usr/nodejs
+    export PATH=$NODE_HOME/bin:$PATH
+    
+    export GOROOT=/usr/go
+    export GOPATH=/home/go
+    export PATH=$PATH:$GOROOT/bin:$GOPATH/bin
+    export GOPROXY=https://goproxy.io,direct
+   ```
    67  cd /home
    68  mkdir go
    69  cd /usr
@@ -77,16 +79,16 @@ tags:
    100 cd /usr/shar/applications
    101 toch goland.desktop
    102 vi goland.desktop
-       
-      [Desktop Entry]
-      Version = 1.0
-      Type = Application
-      Name = Goland
-      IcON = /usr/goland/bin/goland.png
-      Exec = "/usr/goland/bin/goland.sh" %f
-      Comment = The Drive to Develop
-      Categories = Devlopment;IDE;
-      Terminal = false
-      StartupWMClass = jetbrains-goland
-
+   ```    
+    [Desktop Entry]
+    Version = 1.0
+    Type = Application
+    Name = Goland
+    IcON = /usr/goland/bin/goland.png
+    Exec = "/usr/goland/bin/goland.sh" %f
+    Comment = The Drive to Develop
+    Categories = Devlopment;IDE;
+    Terminal = false
+    StartupWMClass = jetbrains-goland
+   ```
 
