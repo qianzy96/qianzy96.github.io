@@ -1,6 +1,6 @@
 ---
 layout:     post
-title:      go学习30天
+title:      go学习28天
 subtitle:   go学习第28天
 date:       2020-7-12
 author:     油腻斜杠
