@@ -9,6 +9,8 @@ catalog: 	 true
 tags:
     - golang
 ---
+
+
 # Function declarations
 
 在我們 [Hello World][Day 3] 的練習裡，曾提到一點點函式的定義，今天要來詳解它。

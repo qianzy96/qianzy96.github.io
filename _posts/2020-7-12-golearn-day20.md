@@ -9,6 +9,8 @@ catalog: 	 true
 tags:
     - golang
 ---
+
+
 # YAML
 
 昨天已經成功把檔案載入變成 `[]byte` 型態，今天要來讀 YAML 檔了。

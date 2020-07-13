@@ -9,6 +9,8 @@ catalog: 	 true
 tags:
     - golang
 ---
+
+
 # Parse JSON
 
 昨天把網頁載好，不過裡面的資料似乎很難處理。後來有找到另一個 API：

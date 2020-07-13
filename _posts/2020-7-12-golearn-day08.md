@@ -9,6 +9,8 @@ catalog: 	 true
 tags:
     - golang
 ---
+
+
 # Slice Type
 
 Slice 跟[陣列][Day 7]使用起來很像，而最大的不同是，陣列是值，Slice 是參考到一個陣列。

@@ -9,6 +9,8 @@ catalog: 	 true
 tags:
     - golang
 ---
+
+
 # Struct
 
 `struct` 是定義資料的集合，跟物件很像，也是把資料集合在一包。

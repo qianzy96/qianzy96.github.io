@@ -9,6 +9,8 @@ catalog: 	 true
 tags:
     - golang
 ---
+
+
 # Method
 
 結構可以定義同類型的資料，而同類型的資料通常又會有同類型的行為。因為 Go 有 [Anonymous Function][Day 12]，有寫過 Javascript 可能第一個想到的解法是這樣：

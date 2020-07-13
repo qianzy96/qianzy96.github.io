@@ -9,6 +9,8 @@ catalog: 	 true
 tags:
     - golang
 ---
+
+
 # Add Command Parameters
 
 我們在重構 [Name Provider][Day 26] 有提到，指令必須也要加參數，才有辦法傳給 Provider 產生對應的結果。

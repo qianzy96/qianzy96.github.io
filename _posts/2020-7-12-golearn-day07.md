@@ -9,6 +9,8 @@ catalog: 	 true
 tags:
     - golang
 ---
+
+
 # Array Type
 
 Go 語言的世界裡，陣列為固定長度，元素型態與長度都是陣列型態的一部分。

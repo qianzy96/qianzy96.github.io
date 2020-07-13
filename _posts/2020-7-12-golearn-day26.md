@@ -9,6 +9,8 @@ catalog: 	 true
 tags:
     - golang
 ---
+
+
 # Refactoring Name Provider
 
 前面 25 天，我們已經成功寫出了一個 CLI App 以及 Web App，包括交付與部署都有實作，這次鐵人賽主題的基本要求已經算達標了。

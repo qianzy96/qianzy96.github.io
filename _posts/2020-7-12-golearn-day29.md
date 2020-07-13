@@ -9,6 +9,8 @@ catalog: 	 true
 tags:
     - golang
 ---
+
+
 # Interface
 
 介面（interface）跟一般 Java 所熟知的介面意義是一樣的：定義實體（instance）的行為。

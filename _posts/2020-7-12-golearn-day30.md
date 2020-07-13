@@ -9,6 +9,8 @@ catalog: 	 true
 tags:
     - golang
 ---
+
+
 # The End
 
 最後一天，再找個需求來做一下好了。

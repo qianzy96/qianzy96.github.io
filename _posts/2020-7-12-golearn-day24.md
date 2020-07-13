@@ -9,6 +9,8 @@ catalog: 	 true
 tags:
     - golang
 ---
+
+
 # Delivery
 
 截至目前為止，應用程式該有基本功能都已經完備了，再來就是最後一哩路了－－交付。

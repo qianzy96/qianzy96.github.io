@@ -9,6 +9,8 @@ catalog: 	 true
 tags:
     - golang
 ---
+
+
 # Random
 
 如果要產生假資料的話，亂數產生器是必要的。

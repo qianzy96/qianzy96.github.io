@@ -9,6 +9,8 @@ catalog: 	 true
 tags:
     - golang
 ---
+
+
 # Map Type
 
 許多語言都有提供 key-value 存放方法的 map 結構，Go 使用內建型態 `map` 實作。

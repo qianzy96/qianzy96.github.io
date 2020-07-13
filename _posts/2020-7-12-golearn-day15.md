@@ -9,6 +9,8 @@ catalog: 	 true
 tags:
     - golang
 ---
+
+
 # Inheritance
 
 [昨天][Day 14]學完怎麼在結構上加方法後，它就很像在設計物件導向程式了。今天來看看它怎麼實作繼承。

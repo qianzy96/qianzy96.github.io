@@ -9,6 +9,8 @@ catalog: 	 true
 tags:
     - golang
 ---
+
+
 # First class function
 
 [昨天][Day 10]定義好的函式，可以當作變數來使用，如：
