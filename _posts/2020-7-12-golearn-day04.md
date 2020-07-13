@@ -9,6 +9,8 @@ catalog: 	 true
 tags:
     - golang
 ---
+
+
 # Constants
 
 Go 語言的常數有分幾種類型：

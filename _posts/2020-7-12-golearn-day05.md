@@ -9,6 +9,8 @@ catalog: 	 true
 tags:
     - golang
 ---
+
+
 # Variables & Constants declarations
 
 [昨天][Day 4]學到了實字常數（literal constants）該如何表示，今天來了解如何宣告變數（Variables）與常數（Constants）。

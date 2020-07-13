@@ -9,6 +9,8 @@ catalog: 	 true
 tags:
     - golang
 ---
+
+
 # Hello World
 
 學習程式的第一隻程式當然就是 Hello World 了，[官方首頁][]有提供 Hello World 原始碼：

@@ -9,6 +9,8 @@ catalog: 	 true
 tags:
     - golang
 ---
+
+
 # Environment
 
 今天來建立開發環境，會分成安裝主程式與設定環境變數兩個部分。
